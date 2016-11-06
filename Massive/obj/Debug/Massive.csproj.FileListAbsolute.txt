@@ -1,0 +1,6 @@
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Massive\Massive\bin\Debug\Massive.exe.config
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Massive\Massive\bin\Debug\Massive.exe
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Massive\Massive\bin\Debug\Massive.pdb
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Massive\Massive\obj\Debug\Massive.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Massive\Massive\obj\Debug\Massive.exe
+C:\Users\Anna\Documents\Visual Studio 2012\Projects\Massive\Massive\obj\Debug\Massive.pdb
